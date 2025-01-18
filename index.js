@@ -12,7 +12,7 @@ const { createClient } = require('@supabase/supabase-js');
 
 
 
-const supabaseUrl = 'https://dashboard.teneo.pro';
+const supabaseUrl = 'https://node-b.teneo.pro';
 
 const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJ1Y3hqdnRhYm1wbGxkZHJnZnJ4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzcyMTc5MTIsImV4cCI6MjA1Mjc5MzkxMn0.DXQlcD_CmMHolixJt2QZCpPXgdgGaZnw_a8T2RUp4_A';
 
