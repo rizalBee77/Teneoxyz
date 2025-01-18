@@ -14,7 +14,7 @@ const { createClient } = require('@supabase/supabase-js');
 
 const supabaseUrl = 'https://dashboard.teneo.pro';
 
-const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imlra25uZ3JneHV4Z2pocGxicGV5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjU0MzgxNTAsImV4cCI6MjA0MTAxNDE1MH0.DRAvf8nH1ojnJBc3rD_Nw6t1AV8X_g6gmY_HByG2Mag';
+const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJ1Y3hqdnRhYm1wbGxkZHJnZnJ4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzcyMTc5MTIsImV4cCI6MjA1Mjc5MzkxMn0.DXQlcD_CmMHolixJt2QZCpPXgdgGaZnw_a8T2RUp4_A';
 
 
 
