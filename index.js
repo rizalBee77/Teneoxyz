@@ -12,9 +12,9 @@ const { createClient } = require('@supabase/supabase-js');
 
 
 
-const supabaseUrl = 'https://dashboard.teneo.pro/';
+const supabaseUrl = 'https://dashboard.teneo.pro';
 
-const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzaWduYXR1cmUiOiI1YzVlNzI0Njg5NWIzMWY3MDg3NDY1ZmVmOGY3ZmM4ODphNGU3ZDkwZTBhOTYzNWE2ZDljYjZlNzUwZWY3MTg3MDFiNzdkYTg0ZmQ5YzY2MjcwNDliNTZiZjI3Y2Q4OWMxMjUxNTU2ODg1NjMzYzg3MTQ0MGYwNzEyMjQ6OWQ5NDg5Y2UwMGI2YmU5OGZhZDE0ODg2OWIzNzQxYmQiLCJpYXQiOjE3MzcyMTg3NTN9.FAKrwhhSvuLVOrLerx8RntPg_czTVnQO8_N8FmADn4c';
+const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJ1Y3hqdnRhYm1wbGxkZHJnZnJ4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzcyMTc5MTIsImV4cCI6MjA1Mjc5MzkxMn0.DXQlcD_CmMHolixJt2QZCpPXgdgGaZnw_a8T2RUp4_A';
 
 
 
